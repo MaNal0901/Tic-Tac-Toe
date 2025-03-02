@@ -20,10 +20,9 @@ Un jeu du **Morpion (Tic-Tac-Toe)** développé en **React.js** avec une ambianc
 - CSS 🎨  
 - JavaScript (ES6+)  
 
----
-
 ## 📸 Aperçu du jeu
-src/images/game-img.png
+
+![Aperçu du jeu](images/game-img.png)
 
 
 
